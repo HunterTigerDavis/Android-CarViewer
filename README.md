@@ -1,7 +1,4 @@
-# android_login
- Developed a simple Login. The objective of this assignment is to practice activities and its properties.
+# Android CarViewer
+ Developed a sign up and login process. The objective of this assignment is to practice activities, fragments, AsyncTask, Restful APIs, and more.
 
-## This project contains three activities:
-### 1- A Login activity
-### 2- A Signup activity
-### 3- A Welcome activity
+Ability to see the data of SoCal luxury cars for sale including their descriptions, locations, date updated, and price.
